@@ -24,7 +24,7 @@ ECE281_CE3
 
 # Questions and Answers
 1. What is the clock frequency? What value would we set to simulate a 50Mhz clock?
-  - 20 Mhz / 20ns
+  - 100 Mhz / 20ns
 2. Is reset synchronous or asynchronous?
   - synchronous
 3. Will it be different from your Moore Machine?
