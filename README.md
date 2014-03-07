@@ -21,7 +21,12 @@ ECE281_CE3
 - After stop is high when the state is floor4, both up_down and stop are made low and the system returns to floor1, decreasing by one floor with each rising edge
 - The value for next floor is consistent with the flor that occurs next and changes values in tandem with the chane in floor output
 - Waveform is identical to Moore (with the addition of an output)
-- 
 
 # Questions and Answers
+1. What is the clock frequency? What value would we set to simulate a 50Mhz clock?
+  - 20 Mhz / 20ns
+2. Is reset synchronous or asynchronous?
+  - synchronous
+3. Will it be different from your Moore Machine?
+  - No, how the output is obtained will change though
 
